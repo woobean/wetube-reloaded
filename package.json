@@ -9,7 +9,7 @@
   "scripts": {
     "dev": "nodemon --exec babel-node src/init.js"
   },
-  "author": "woobean <woobean@github.com>",
+  "author": "woobean",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/woobean/wetube-reloaded/issues"
