@@ -9,7 +9,7 @@
   "scripts": {
     "win": "node index.js"
   },
-  "author": "woobean",
+  "author": "woobean <woobean@github.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/woobean/wetube-reloaded/issues"
