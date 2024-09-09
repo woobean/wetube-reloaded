@@ -1,0 +1,18 @@
+{
+  "name": "wetube",
+  "version": "1.0.0",
+  "description": "The best way to watch videos.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woobean/wetube-reloaded.git"
+  },
+  "scripts": {
+    "win": "node index.js"
+  },
+  "author": "woobean",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/woobean/wetube-reloaded/issues"
+  },
+  "homepage": "https://github.com/woobean/wetube-reloaded#readme"
+}
